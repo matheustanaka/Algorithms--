@@ -10,7 +10,7 @@ int main (void) {
 
     scanf("%d %d", &a, &m);
 
-    printf("%d\n", maxPeople(a, m));
+    printf("%s\n", maxPeople(a, m));
 
     return 0;
 }
